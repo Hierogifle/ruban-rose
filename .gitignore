@@ -1,1 +1,16 @@
-.venv
+# Environnement virtuel
+.venv/
+
+# Dataset images (volumeux — à placer localement dans data/)
+data/BHI/
+data/BreaKHis_v1/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Fichiers systèmes
+.DS_Store
+Thumbs.db

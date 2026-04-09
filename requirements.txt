@@ -1,0 +1,11 @@
+ipykernel
+kagglehub
+matplotlib
+numpy
+openpyxl
+pandas
+Pillow
+scikit-image
+scikit-learn
+scipy
+seaborn
