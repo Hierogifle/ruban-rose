@@ -311,7 +311,7 @@ Le dataset BreaKHis est utilisé sous licence académique uniquement.
 ## 📞 Contact & Support
 
 Pour toute question ou suggestion :
-- 🐙 GitHub : [@Hieroglife](https://github.com/Hieroglife)
+- 🐙 GitHub : [@olivier-bonnin](https://github.com/olivier-bonnin)
 
 ---
 
