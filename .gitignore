@@ -5,6 +5,10 @@
 data/BHI/
 data/BreaKHis_v1/
 
+# Poids de modèles (volumeux — à regénérer via RubanRose_Training.ipynb)
+models/
+*.pth
+
 # Cache Python
 __pycache__/
 *.pyc
@@ -14,3 +18,8 @@ __pycache__/
 # Fichiers systèmes
 .DS_Store
 Thumbs.db
+
+# Présentations PowerPoint
+*.ppt
+*.pptx
+~$*.ppt*

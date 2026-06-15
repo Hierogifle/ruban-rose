@@ -1,0 +1,9 @@
+subtype,Type,n_test,acc_convnext,acc_vit
+adenosis,Benin,121,61.2,88.4
+fibroadenoma,Benin,223,73.1,93.7
+phyllodes_tumor,Benin,60,90.0,98.3
+tubular_adenoma,Benin,64,7.8,26.6
+ductal_carcinoma,Malin,428,100.0,100.0
+lobular_carcinoma,Malin,125,100.0,100.0
+mucinous_carcinoma,Malin,209,98.6,90.0
+papillary_carcinoma,Malin,90,62.2,55.6
